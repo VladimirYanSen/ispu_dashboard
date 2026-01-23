@@ -1,8 +1,13 @@
 {
   "sliding_time": 30000,
-  "background_chart_bar_color_1": "#008f1f",
-  "background_chart_bar_color_2": "#0068cb",
-  "background_chart_bar_color_3": "#dad718",
-  "background_chart_bar_color_4": "#fa1511",
-  "background_chart_bar_color_5": "#000000"
+  "chart_bar_color_empty": "#adb5bd",
+  "chart_bar_color_1": "#008f1f",
+  "chart_bar_color_2": "#0068cb",
+  "chart_bar_color_3": "#dad718",
+  "chart_bar_color_4": "#fa1511",
+  "chart_bar_color_5": "#000000",
+  "chart_x_text_color": "#FFFFFF",
+  "chart_y_text_color": "#FFFFFF",
+  "chart_suhu_line_color": "#006a38",
+  "chart_kelembepan_line_color": "#742176"
 }

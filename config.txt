@@ -1,5 +1,5 @@
 {
-  "sliding_time": 30000,
+  "sliding_time": 20000,
   "chart_bar_color_empty": "#adb5bd",
   "chart_bar_color_1": "#008f1f",
   "chart_bar_color_2": "#0068cb",
